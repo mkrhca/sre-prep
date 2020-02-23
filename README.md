@@ -2,7 +2,7 @@
 List of Topics for SRE Prep
 
 <pre>
-SRE PREP - STEP ONE (1st Month) 
+**SRE PREP - STEP ONE (1st Month)**  
 Intro to OS 
  - https://nptel.ac.in/courses/106102132/
  - 40 videos, each 1 hour 
@@ -52,7 +52,7 @@ CCNA (Optional)
  - https://app.cybrary.it/browse/course/cisco-ccna
  - 4 Modules (24/28/2/34.5 hours) 
  
-SRE PREP - STEP TWO (2nd Month) 
+**SRE PREP - STEP TWO (2nd Month)**  
 Introduction to Operating Systems 
  - https://br.udacity.com/course/introduction-to-operating-systems--ud923/
  - 20 Lessons, 1 hour each 
@@ -84,7 +84,7 @@ High Performance Computing
 Cloud Computing and Distributed Systems 
  - 21 videos, 1 hour each 
  
-SRE PREP - STEP THREE (3rd Month) 
+**SRE PREP - STEP THREE (3rd Month)**  
 Site Reliability Engineering
  - https://landing.google.com/sre/book/index.html
  - 35 chapters, 45 mins each 
@@ -151,7 +151,7 @@ Distributed Systems
 Distributed Computer Systems 
  - https://www.youtube.com/watch?v=w8KFPWkK0bI&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N
  
-SRE PREP - STEP FOUR (4th Month) 
+**SRE PREP - STEP FOUR (4th Month)**  
 Learning Docker 
  - https://linuxacademy.com/cp/learningpaths/preview/id/3977
  
@@ -189,7 +189,7 @@ Certified Jenkins Engineer
  - https://linuxacademy.com/cp/modules/view/id/268?redirect_uri=https://app.linuxacademy.com/search?query=jenkins
  
 
-SRE PREP - STEP Five (5th Month)
+**SRE PREP - STEP Five (5th Month)**  
 Systems Security Certified Professional (SSCP) 
  - https://www.cybrary.it/course/systems-security-certified-practitioner-sscp/ 
  - 6 hours total 
@@ -211,8 +211,12 @@ Certified Ethical Hacker
 CISSP 
  - https://www.cybrary.it/course/cissp/
  - 20 hours total 
- 
-SRE PREP - STEP Six (6th Month)
+
+Splunk Architect 
+ - https://www.udemy.com/course/splunk-admin-architect-complete-tutorials-30-days-lab/learn/
+ - 16 hours total 
+  
+**SRE PREP - STEP Six (6th Month)**  
 AWS Certified Developer Associate 
  - https://linuxacademy.com/course/aws-certified-developer-associate-2018/
  - 30 hours total 
