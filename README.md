@@ -189,6 +189,51 @@ Certified Jenkins Engineer
  - https://linuxacademy.com/cp/modules/view/id/268?redirect_uri=https://app.linuxacademy.com/search?query=jenkins
  
 
-
-
+SRE PREP - STEP Five (5th Month)
+Systems Security Certified Professional (SSCP) 
+ - https://www.cybrary.it/course/systems-security-certified-practitioner-sscp/ 
+ - 6 hours total 
+ 
+Certified Information Security Manager (CISM)
+ - https://www.cybrary.it/course/cism/
+ - 13 hours total 
+ 
+Certified Cloud Security Professional (CCSP) 
+ - https://www.cybrary.it/course/ccsp/
+ - 13 hours total 
+ 
+Certified Ethical Hacker 
+ - https://linuxacademy.com/course/certified-ethical-hacker-certification-ceh/
+ - 36 hours total
+ - https://www.cybrary.it/catalog/practice_labs/ethical-hacker/
+ - 14 hours total (Labs) 
+ 
+CISSP 
+ - https://www.cybrary.it/course/cissp/
+ - 20 hours total 
+ 
+SRE PREP - STEP Six (6th Month)
+AWS Certified Developer Associate 
+ - https://linuxacademy.com/course/aws-certified-developer-associate-2018/
+ - 30 hours total 
+ 
+AWS Certified Devops Engineer - Professional 
+ - https://linuxacademy.com/course/aws-certified-devops-professional-new/
+ - 32 hours total 
+ 
+Certified Kubernetes Administrator 
+ - https://linuxacademy.com/course/cloud-native-certified-kubernetes-administrator-cka/
+ - 16 hours total 
+ 
+Certified Kubernetes Application Developer 
+ - https://linuxacademy.com/course/certified-kubernetes-application-developer-ckad/
+ - 19 hours total 
+ 
+AWS Certifed Security - Speciality 
+ - https://linuxacademy.com/course/aws-certified-security-specialty/
+ - 33 hours total 
+ 
+GCP Cloud Architect - Professional 
+ - https://linuxacademy.com/course/google-cloud-certified-professional-cloud-architect/
+ - 30 hours total 
 </pre>
