@@ -157,15 +157,25 @@ Learning Docker
  
 Kubernetes Orchestration and Management
  - https://linuxacademy.com/cp/learningpaths/preview/id/3964
+
+Apache Web Server Hardening
+ - https://linuxacademy.com/course/hardening-apache-web-server/ 
  
 Nginx 
  - https://linuxacademy.com/cp/modules/view/id/169?redirect_uri=https://app.linuxacademy.com/search?query=nginx
  
-AWS Master 
- - https://linuxacademy.com/cp/learningpaths/preview/id/3974
+Grafana
+ - https://app.linuxacademy.com/search?query=grafana 
  
-Google Certified Professional - Cloud Architect
- - https://linuxacademy.com/cp/learningpaths/preview/id/3975
+CloudFormation 
+ - https://linuxacademy.com/course/cloud-formation-deep-dive-2019/ 
+ 
+Terraform 
+ - https://linuxacademy.com/course/managing-applications-and-infrastructure-with-terraform/
+ - https://linuxacademy.com/course/managing-applications-and-infrastructure-with-terraform-2/
+ 
+Git 
+ - https://linuxacademy.com/course/source-control-with-git/ 
  
 Cyber Security Analyst - Mid Level
  - https://linuxacademy.com/cp/learningpaths/preview/id/3896
@@ -182,14 +192,13 @@ DevOps Monitoring Deep Dive
 AIOps Essentials
  - https://linuxacademy.com/cp/modules/view/id/304?redirect_uri=https://app.linuxacademy.com/search?query=prometheus
  
+<b>SRE PREP - STEP Five (5th Month)</b>  
 Elastic Certification Preparation
  - https://linuxacademy.com/cp/modules/view/id/257?redirect_uri=https://app.linuxacademy.com/search?query=elastic
  
 Certified Jenkins Engineer
  - https://linuxacademy.com/cp/modules/view/id/268?redirect_uri=https://app.linuxacademy.com/search?query=jenkins
  
-
-<b>SRE PREP - STEP Five (5th Month)</b>  
 Systems Security Certified Professional (SSCP) 
  - https://www.cybrary.it/course/systems-security-certified-practitioner-sscp/ 
  - 6 hours total 
