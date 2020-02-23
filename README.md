@@ -82,6 +82,7 @@ High Performance Computing
  - 41 videos, 1 hour each 
  
 Cloud Computing and Distributed Systems 
+ - https://nptel.ac.in/courses/106/104/106104182/ 
  - 21 videos, 1 hour each 
  
 <b>SRE PREP - STEP THREE (3rd Month)</b>  
@@ -105,7 +106,7 @@ System Programming with C and Unix - Book
  - https://github.com/atamsingh/comp2401/blob/master/Textbooks/System%20Programming%20with%20C%20and%20Unix%20-%20Adam%20Hoover.pdf
  - 9 chapters, 1 hour each 
  
-Building Skills in Python
+Building Skills in Python - Book 
  - 40 units, 1 hour each 
 
 Python Essentials 
