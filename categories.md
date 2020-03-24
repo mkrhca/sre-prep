@@ -1,6 +1,6 @@
-** SRE Prep Categories  
+## SRE Prep Categories  
 
-**** Category 1 - Programming 
+#### Category 1 - Programming 
 <pre>
 1. C  
 2. C++   
@@ -13,7 +13,7 @@
 9. Projects 
 </pre>  
 
-**** Category 2 - Systems   
+#### Category 2 - Systems   
 <pre>
 1. Operating System  
 2. Networking   
@@ -23,7 +23,7 @@
 6. Projects   
 </pre>  
 
-**** Category 3 - Cloud 
+#### Category 3 - Cloud 
 <pre>
 1. AWS Certified Solutions Architect - Associate 
 2. AWS Certified Developer Associate 
